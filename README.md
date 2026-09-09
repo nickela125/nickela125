@@ -2,7 +2,7 @@
 
 - 💼 I'm a Senior Engineer
 - 🌱 I’m currently learning React
-- 🌎 Website: [https://codefox.co.nz](codefox.co.nz)
+- 🌎 Website: [https://codefoxcub.wordpress.com](https://codefoxcub.wordpress.com)
 
 <hr>
 <p align="center">
